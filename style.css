@@ -1,0 +1,90 @@
+*{
+    background-color:#bfdefa;
+    background-image: linear-gradient(
+        to right,#c0e96cd4);
+}
+
+.header{
+    font-size:27px;
+    font-family:Baskerville Old Face;
+    text-align: center;
+    text-decoration: underline 2px;
+}
+
+.img{
+    height: 360px;
+    width: 300px;
+    margin-top: 25px;
+    border: 2.5px solid #100d0d;
+}
+.rdj{
+    height: 350px;
+    width: 250px;
+    margin: 5px;
+}
+.contain{
+    display:flex;
+
+}
+.data{
+    font-size: 22px;
+    font-family:'Times New Roman', Times, serif;
+    margin-left:0.5%;
+    padding: 0%;
+}
+
+.img1{
+    height: 360px;
+    width: 300px;
+    border: 2.5px solid #100d0d;
+ 
+    
+}
+.rdj1{
+    height: 350px;
+    width: 290px;
+    margin: 5px; 
+}
+.contain1{
+    display:flex;
+}
+.data1{
+    font-size: 22px;
+    font-family:'Times New Roman', Times, serif;
+    margin-left:0.5%;
+    padding: 0%;
+}
+.list{
+    font-size: 21px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+}
+.links{
+    font-size: 26px;
+    font-family:Rockwell Condensed;
+    padding: 10px;
+}
+.footer{
+    text-align: center;
+}
+.thats{
+    font-size: 23px;
+    font-family: Bahnschrift Condensed;
+}
+.author{
+    font-size: 25px;
+    font-family:Gloucester MT Extra Condensed;
+    font-style: bold;
+}
+.line{
+    margin-top: 38px;
+}
+.link1{
+    margin: 20px;
+    font-size:30px;
+}
+.link2{
+    margin: 20px;
+    font-size:30px;
+
+}
